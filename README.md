@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Weslley Rocha! <img src="https://media.giphy.com/media/fx5E5RjtqBltDFKEO9/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/images/27d8aae6d60c3576150e1f4d7a932791/tenor.gif" width="230">
-<p><em>Fron end Developer at <a href="http://www.invillia.com">Invillia</a><img src="https://media.giphy.com/media/QBA0hheefI83XJL7Sl/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.paygo.com.br">PayGo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>FronEnd Developer at <a href="http://www.invillia.com">Invillia</a><img src="https://media.giphy.com/media/QBA0hheefI83XJL7Sl/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.paygo.com.br">PayGo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 
