@@ -41,6 +41,10 @@ const weslley = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+JavaScript   52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JSON         34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown     31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Groovy       30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 <!--END_SECTION:waka-->
