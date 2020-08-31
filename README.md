@@ -41,10 +41,10 @@ const weslley = {
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.53 % 
-JavaScript   56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Markdown     52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-YAML         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+TypeScript   3 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.96 % 
+YAML         1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Docker       1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JavaScript   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown     55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 <!--END_SECTION:waka-->
