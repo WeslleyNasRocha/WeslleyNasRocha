@@ -46,9 +46,9 @@ const weslley = {
 
 **🐱 My Github Data** 
 
-> 🏆 532 Contributions in the Year 2020
+> 🏆 538 Contributions in the Year 2020
  > 
-> 📦 290.2 kB Used in Github's Storage 
+> 📦 290.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
