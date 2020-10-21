@@ -16,7 +16,7 @@
 const weslley = {
   thingsIreallyLike: ["anime", "games", "lo-fi", "MPB", "cats"],
   currentlyWorking: "On web development and a mobile app",
-  learningBacklog: ["Some Game Engine", "RxJS"],
+  learningBacklog: ["RxJS"],
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: {
     mobileApp: ["React-Native"],
