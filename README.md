@@ -1,7 +1,7 @@
 <h2> Hello there, I'm Weslley Rocha! <img src="https://media.giphy.com/media/fx5E5RjtqBltDFKEO9/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media1.tenor.com/images/27d8aae6d60c3576150e1f4d7a932791/tenor.gif" width="230"> -->
 <a href="https://app.daily.dev/Ueslu"><img align='right' src="https://api.daily.dev/devcards/e16bd81e4ad84516b7f1ae4dbe103a42.png?r=zus" width="300" alt="Weslley Nascimento Rocha's Dev Card"/></a>
-<p><em>FronEnd Engineer at <a href="https://wildlifestudios.com/">WildLife Studios</a><img src="https://wildlifestudios.com/wp-content/themes/wildlife/assets/images/logo-wildlife.svg" width="30">
+<p><em>FrontEnd Engineer at <a href="https://wildlifestudios.com/">WildLife Studios</a><img src="https://wildlifestudios.com/wp-content/themes/wildlife/assets/images/logo-wildlife.svg" width="30">
 </em></p>
 
 
